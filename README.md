@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Aseem!
 
-🌍 Based in London, UK | 🎓 MSc in Urban Data Science and Analytics from the University of Leeds
+🌍 Based in London, UK | 🎓 MSc in Urban Data Science and Analytics from the University of Leeds | 🎓 MSc in Geoinformatics from the BVIEER, Pune
 
 ### 🔍 About Me
 - 🔭 Currently Working On: Diving into advanced machine learning algorithms to enhance urban planning models.
