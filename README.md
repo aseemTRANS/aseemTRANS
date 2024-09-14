@@ -22,6 +22,7 @@
 
 ![ArcGIS](https://img.shields.io/badge/arcgis-%231572B6.svg?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/qgis-%2364B345?style=for-the-badge&logo=qgis&logoColor=white)
+![JOSM](https://img.shields.io/badge/josm-%231572B6.svg?style=for-the-badge&logo=josm&logoColor=white)
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23f2f2f2.svg?style=for-the-badge&logo=tableau&logoColor=5294E2)
