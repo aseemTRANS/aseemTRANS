@@ -1,59 +1,68 @@
 ## Hi 👋 I'm Aseem!
 
-🌍 Based in London, UK | 🎓 MSc in Urban Data Science and Analytics from the University of Leeds | 🎓 MSc in Geoinformatics from the BVIEER, Pune
+## Urban Data Scientist & GIS Analyst | Turning Cities into Smart, Sustainable Systems
 
-### 🔍 About Me
-- 🔭 Currently Working On: Diving into advanced machine learning algorithms to enhance urban planning models.
-- 👨‍💻 Projects: From optimizing retail strategies with Northern Railway to analysing sentiments to better understand Airbnb market trends, I've applied data science to solve real-world problems. My projects often involve spatial data analysis, predictive modelling, and creating interactive dashboards to derive insights that drive strategic decisions.
-- 📈 What I'm Up To: Currently, I'm diving deeper into machine learning and exploring how AI can be integrated into urban data systems to foster city planning and management.
-- 💬 Ask me about: Anything related to GIS, Urban Analytics, or related to cities.
-- 👯 Looking to Collaborate On: Projects focused on geospatial data analysis, urban sustainability, or any innovative tech that improves quality of life.
-- 📫 How to Reach Me: Drop me a line on [LinkedIn](https://www.linkedin.com/in/aseemshaikh12/) or follow me on [Twitter](https://x.com/aseemshaikh) for a blend of tech insights and updates.
-- 😄 Pronouns: He/Him<br/>
+I am an Urban Data Scientist and GIS Analyst with a strong foundation in spatial data science, advanced analytics, and urban systems modeling. My expertise lies in combining geospatial technologies, data science, and domain knowledge to solve complex challenges in transportation, urban mobility, and sustainability.
 
+---
 
-### 🛠 Tech Toolbox
+### 🔎 About Me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+With a Master's in Urban Data Science and Analytics from the University of Leeds and a background in Geoinformatics, I bring a rigorous analytical mindset to urban and environmental problems. Over the past years, I have worked on projects spanning consumer behavior segmentation, urban carbon storage estimation, accessibility analysis, and predictive congestion modeling.
 
-![ArcGIS](https://img.shields.io/badge/arcgis-%231572B6.svg?style=for-the-badge&logo=arcgis&logoColor=white)
-![QGIS](https://img.shields.io/badge/qgis-%2364B345?style=for-the-badge&logo=qgis&logoColor=white)
-![JOSM](https://img.shields.io/badge/josm-%23F7931E.svg?style=for-the-badge&logo=josm&logoColor=white)
+My approach integrates traditional spatial analysis with modern machine learning and cloud-based automation, allowing for data-driven solutions that are not only technically sound but also practically impactful.
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23f2f2f2.svg?style=for-the-badge&logo=tableau&logoColor=5294E2)
+---
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💡 Key Interests
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Urban mobility and transport optimization
+- Traffic congestion prediction and mitigation
+- Geospatial modeling for sustainability and climate resilience
+- Integrating real-time data streams (IoT, APIs) into decision-making
+- Automation of ETL workflows using Airflow, GitHub Actions, and cloud tools
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
+### ⚙️ Technical Skills
 
-### 📊 GitHub Stats:
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, Plotly, Dash), R, SQL
+- **GIS & Remote Sensing**: ArcGIS, QGIS, PostGIS, Google Earth Engine
+- **Data Engineering & Automation**: Apache Airflow, Docker, GitHub Actions, Bash, ETL pipelines
+- **Visualization & BI**: Tableau, Power BI, Matplotlib, Seaborn
+- **Cloud & CI/CD**: Git, GitHub, GitHub Actions (CI/CD), in progress: GCP
 
-[![Aseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseemTRANS&count_private=true&hide_rank=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🌟 Featured Projects
 
-### 🖥️ Language
+- **Urban Congestion Prediction & Optimization (King William Street, London)**
+  - Developed a live data pipeline integrating bus arrival times, line status, disruptions, and weather data to monitor and predict congestion patterns.
+  - Automated collection and version-controlled storage via GitHub Actions to enable real-time, continuous updates and future model training.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseemTRANS&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+- **Flight Fare Monitoring & Automated Alerts**
+  - Built an ETL system to track live flight prices using the Amadeus API, with automated email alerts when prices drop below set thresholds.
+  - Integrated Airflow orchestration and data logging for historical analysis.
 
+- **Consumer Segmentation for Northern Railway Stations**
+  - Applied spectral and k-means clustering to analyze catchment areas and segment consumer groups, enhancing retail strategy and station-level planning.
 
+---
 
-**aseemTRANS/aseemTRANS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📢 What I'm Looking For
 
-Here are some ideas to get you started:
+I am passionate about transforming urban data into actionable insights that drive better, more sustainable decisions. I enjoy collaborating on projects at the intersection of cities, data science, and technology — whether it is developing advanced spatial models, building automated data pipelines, or visualizing complex urban dynamics.
 
+I am actively seeking opportunities to contribute to innovative teams working on smart cities, urban mobility, and geospatial analytics, where I can continue to learn and make a meaningful impact.
+
+---
+
+### 📬 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/aseemshaikh-geospatial/) — Let’s connect professionally
+- [Email](mailto:mydsprojects12@gmail.com) — Open to collaborations and discussions
+
+---
 
 
 
