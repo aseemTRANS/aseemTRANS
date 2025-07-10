@@ -40,12 +40,13 @@ My approach integrates traditional spatial analysis with modern machine learning
   - Developed a live data pipeline integrating bus arrival times, line status, disruptions, and weather data to monitor and predict congestion patterns.
   - Automated collection and version-controlled storage via GitHub Actions to enable real-time, continuous updates and future model training.
 
-- **Flight Fare Monitoring & Automated Alerts**
-  - Built an ETL system to track live flight prices using the Amadeus API, with automated email alerts when prices drop below set thresholds.
-  - Integrated Airflow orchestration and data logging for historical analysis.
+- **UK Road Accident Severity Forecasting & Risk Factor Analysis**
+  - Analysed 1.7M+ road accident records (2005–2015) from the UK Department for Transport, integrating spatial (collision coordinates, road type) and non-spatial (driver age, vehicle type, weather, lighting) features to understand key determinants of accident severity.
+  - Developed SARIMAX-based time series models to forecast future accident trends, validating against 2016–2019 data; findings revealed declining trends attributed to policy changes and public safety campaigns.
 
 - **Consumer Segmentation for Northern Railway Stations**
-  - Applied spectral and k-means clustering to analyze catchment areas and segment consumer groups, enhancing retail strategy and station-level planning.
+  - Mapped and analysed footfall data for ~3.6 million visitors across Harrogate, St. Helen Central, and Worksop stations, using geofencing and 12-month mobility data to delineate primary, secondary, and tertiary catchment zones.
+  - Implemented advanced spectral and k-means clustering on Mosaic demographic and behavioural segments, uncovering critical consumer profiles (e.g., “Affluent Bargain Hunters,” “Budget-Conscious Commuters”), which informed station-specific retail strategies.
 
 ---
 
